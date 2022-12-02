@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>134874439996-fi8ai58r5flckrbpigkurn26opilrdqg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.134874439996-fi8ai58r5flckrbpigkurn26opilrdqg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBqeEoVgqj073DR8KZcDyu6TlPJDrabBTQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>134874439996</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sokei.TableTennisMemo</string>
+	<key>PROJECT_ID</key>
+	<string>tabletennismemo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tabletennismemo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:134874439996:ios:a334e28af8d2f72c3e7e39</string>
+</dict>
+</plist>
